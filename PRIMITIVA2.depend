@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1418721903 source:c:\users\bl0056\desktop\primitiva2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Variables.h"
+
+1418721315 c:\users\bl0056\desktop\primitiva2\variables.h
+	<stdio.h>
+
+1418722575 source:c:\users\bl0056\desktop\primitiva2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Variables.h"
+
+1418861955 source:c:\users\ana\desktop\primitiva2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Variables.h"
+
+1418858338 c:\users\ana\desktop\primitiva2\variables.h
+	<stdio.h>
+
+1418862495 source:c:\users\ana\desktop\primitiva2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Variables.h"
+
+1418291472 source:h:\primitiva2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Variables.h"
+
+1418289264 h:\primitiva2\variables.h
+	<stdio.h>
+
+1418291398 source:h:\primitiva2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Variables.h"
+
+1418292352 source:f:\primitiva2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Variables.h"
+
+1418292354 f:\primitiva2\variables.h
+	<stdio.h>
+
